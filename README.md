@@ -2,7 +2,7 @@
 
 ## 📱 Protótipo Navegável
 
-**[Clique aqui para acessar o protótipo funcional do SplitPay](https://cylextty.github.io/splitpay/)**
+**[Clique aqui para acessar o protótipo funcional do SplitPay](https://cylextty.github.io/SplitPay/)**
 
 *Obs: O protótipo está otimizado para visualização em desktop e dispositivos móveis.*
 
